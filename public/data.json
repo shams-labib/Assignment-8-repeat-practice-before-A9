@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://home.appone.net/wp-content/themes/appone/assets/images/AppOne_Meta.jpg",
+    "title": "App One Daily Task Manager",
+    "companyName": "TechCorp",
+    "id": 1,
+    "description": "App One is a versatile productivity tool designed to help users manage tasks, set reminders, and organize their daily schedules efficiently. It combines intuitive design with powerful features to boost workflow.",
+    "size": 25,
+    "reviews": 120,
+    "ratingAvg": 4.3,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 15 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 40 }
+    ]
+  },
+  {
+    "image": "https://www.wearefitnesspro.com/wp-content/uploads/2018/05/FitnessPro_Facebook_Profile-e1527387510154.jpg",
+    "title": "Fitness Pro Track Your Health",
+    "companyName": "HealthPlus",
+    "id": 2,
+    "description": "Fitness Pro provides a complete workout and fitness tracking experience, allowing users to monitor progress, follow personalized plans, and stay motivated with interactive challenges and real-time performance feedback.",
+    "size": 30,
+    "reviews": 200,
+    "ratingAvg": 4.7,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 112 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1JMJ518jogwPeaD0pYn2mBu1cRLD0xRi45wNbtTIRvam1_xx-y3KJOjRAx-W9P4Lf0U=s256-rw",
+    "title": "Photo Editor Enhance Your Photos",
+    "companyName": "SnapMagic",
+    "id": 3,
+    "description": "Photo Editor offers a wide variety of tools to enhance your photos with filters, effects, and advanced editing options. Users can adjust colors, crop images, and create professional-quality pictures effortlessly.",
+    "size": 40,
+    "reviews": 340,
+    "ratingAvg": 4.5,
+    "downloads": 78,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 160 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspMfENNYWHa6Po7rAaukkzvUM9KU_uOya3A&s",
+    "title": "Travel Buddy Plan Your Adventures",
+    "companyName": "Wanderlust Inc.",
+    "id": 4,
+    "description": "Travel Buddy is your perfect companion for exploring the world. Discover destinations, plan itineraries, book accommodations, and track your adventures all in one seamless, easy-to-use application.",
+    "size": 28,
+    "reviews": 95,
+    "ratingAvg": 4.2,
+    "downloads": 55,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 30 }
+    ]
+  },
+  {
+    "image": "https://i1.sndcdn.com/avatars-000688434627-lneheb-t1080x1080.jpg",
+    "title": "Music Stream Listen To Anywhere",
+    "companyName": "MelodyWorks",
+    "id": 5,
+    "description": "Music Stream gives users access to millions of high-quality songs from around the world. Create playlists, discover new artists, and enjoy uninterrupted listening on any device.",
+    "size": 50,
+    "reviews": 450,
+    "ratingAvg": 4.8,
+    "downloads": 13,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://media.licdn.com/dms/image/v2/D4E12AQEa7AKYVDgwSA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1712157160830?e=2147483647&v=beta&t=6elsteIwskFFm76ROqGIbvteWmPk0pOHHo8VO05AiYE",
+    "title": "Language Learner Build Vocabulary Fast",
+    "companyName": "LinguaTech",
+    "id": 6,
+    "description": "Language Learner makes learning new languages easy and fun. With interactive lessons, quizzes, and real-time feedback, users can build their vocabulary and conversation skills quickly and efficiently.",
+    "size": 22,
+    "reviews": 210,
+    "ratingAvg": 4.4,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXkbWAFgsI70Q7Ev8-ayDIWsfu901rmdvs-lnDLBq9O0RngCJaROf68ifhiOAVXOnZ00&usqp=CAU",
+    "title": "Recipe Master Cook Delicious Meals",
+    "companyName": "CookSmart",
+    "id": 7,
+    "description": "Recipe Master helps food enthusiasts discover, create, and share recipes from around the world. The app includes step-by-step instructions, nutritional information, and the ability to save favorite dishes.",
+    "size": 35,
+    "reviews": 320,
+    "ratingAvg": 4.6,
+    "downloads": 85,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 160 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsEOVHj039BMKF5NGjTSvP_-Rnmxw-EL6IxQ&s",
+    "title": "News Daily Stay Updated Instantly",
+    "companyName": "Global News",
+    "id": 8,
+    "description": "News Daily delivers the latest news updates from around the world in real-time. Stay informed with breaking stories, in-depth analysis, and notifications tailored to your interests.",
+    "size": 20,
+    "reviews": 180,
+    "ratingAvg": 4.1,
+    "downloads": 92,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "image": "https://i.ytimg.com/vi/3cD5UFWsNOA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCMh40l2W47oDH5e8RElDOFk6I8g",
+    "title": "Workout Tracker Reach Fitness Goals",
+    "companyName": "FitLife",
+    "id": 9,
+    "description": "Workout Tracker allows fitness enthusiasts to monitor their exercise routines, track progress, and achieve fitness goals through detailed statistics, reminders, and guided workout plans.",
+    "size": 25,
+    "reviews": 240,
+    "ratingAvg": 4.5,
+    "downloads": 63,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNGn8YGRgAeQAQIE7VJZrU1d7t7WekfveQ&s",
+    "title": "Budget Manager Track Your Finances",
+    "companyName": "FinanceGuru",
+    "id": 10,
+    "description": "Budget Manager helps users organize their finances, track expenses, and set savings goals. With detailed charts and alerts, it makes financial planning simple and effective for everyone.",
+    "size": 15,
+    "reviews": 140,
+    "ratingAvg": 4.3,
+    "downloads": 62,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 45 }
+    ]
+  },
+  {
+    "image": "https://blogimage.vantagefit.io/vfitimages/2021/06/Mindfulness-Meditation--Why-To-Practice-At-Work---.png",
+    "title": "Mindful Meditation Reduce Daily Stress",
+    "companyName": "CalmSpace",
+    "id": 11,
+    "description": "Mindful Meditation offers guided meditation sessions, breathing exercises, and mindfulness activities designed to reduce stress, improve focus, and enhance overall mental well-being for users of all experience levels.",
+    "size": 18,
+    "reviews": 220,
+    "ratingAvg": 4.6,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 97 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQxxSwBMlM_nNniMoFtLVg9Z4gtzCujS-9A&s",
+    "title": "Smart Grocery Shop Compare And Order",
+    "companyName": "FreshMart",
+    "id": 12,
+    "description": "Smart Grocery makes shopping easier by allowing users to browse products, create shopping lists, compare prices, and order groceries online for quick delivery right to their doorstep.",
+    "size": 25,
+    "reviews": 180,
+    "ratingAvg": 4.4,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 76 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZryQpkY9HVgaMr2Q2GrFPZcZrMhP63gmdu9BGzE_XrZBcSvvpuzQgsWAzt-57j-dIKDd",
+    "title": "Daily Planner",
+    "companyName": "OrganizeIt",
+    "id": 13,
+    "description": "Daily Planner helps users structure their day by managing tasks, events, and priorities efficiently. The app features reminders, notes, and customizable schedules to improve productivity and reduce stress.",
+    "size": 20,
+    "reviews": 160,
+    "ratingAvg": 4.3,
+    "downloads": 80,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 52 }
+    ]
+  },
+  {
+    "image": "https://hips.hearstapps.com/hmg-prod/images/roasted-chickpea-tomato-and-chicken-bowls-healthy-chicken-recipes-65e8aa3ca8395.jpg?crop=0.621xw:0.929xh;0.189xw,0.0356xh",
+    "title": "Healthy Recipes",
+    "companyName": "NutriLife",
+    "id": 14,
+    "description": "Healthy Recipes provides a wide range of nutritious recipes with detailed instructions, calorie information, and ingredient substitutes, helping users maintain a balanced diet and improve overall wellness.",
+    "size": 30,
+    "reviews": 250,
+    "ratingAvg": 4.7,
+    "downloads": 79,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 105 }
+    ]
+  },
+  {
+    "image": "https://www.wikihow.com/images/thumb/1/12/Teach-Yourself-a-Language-Using-Flashcards-Step-7.jpg/v4-460px-Teach-Yourself-a-Language-Using-Flashcards-Step-7.jpg",
+    "title": "Language Flashcards",
+    "companyName": "LinguaSmart",
+    "id": 15,
+    "description": "Language Flashcards helps users expand their vocabulary in multiple languages by providing interactive flashcards, quizzes, and spaced repetition techniques to boost memory retention effectively.",
+    "size": 22,
+    "reviews": 190,
+    "ratingAvg": 4.5,
+    "downloads": 120,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 88 }
+    ]
+  },
+  {
+    "image": "https://www.thewholepetvet.com/blog/wp-content/uploads/2024/04/iStock-1171733307-1-2000x1334.jpg",
+    "title": "Pet Care",
+    "companyName": "AnimalFriends",
+    "id": 16,
+    "description": "Pet Care offers guidance, reminders, and tips to take better care of pets. From feeding schedules to vet appointment alerts, it ensures the health and happiness of your furry companions.",
+    "size": 28,
+    "reviews": 210,
+    "ratingAvg": 4.6,
+    "downloads": 30,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 85 }
+    ]
+  },
+  {
+    "image": "https://www.investopedia.com/thmb/ObBgOq9_WGDF6fk7LrRbA9yZUdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/smart-home.asp-final-5de0da3d6d8a474f9028d26c957255fe.png",
+    "title": "Smart Home",
+    "companyName": "HomeTech",
+    "id": 17,
+    "description": "Smart Home allows users to control lighting, temperature, and appliances remotely. The app enhances convenience, energy efficiency, and home security through intuitive automation and real-time monitoring.",
+    "size": 40,
+    "reviews": 300,
+    "ratingAvg": 4.8,
+    "downloads": 33,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 170 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/old-memories-collage-photo-frame-poster-template_47987-30976.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Photo Memories",
+    "companyName": "MemoryLane",
+    "id": 18,
+    "description": "Photo Memories allows users to store, organize, and create albums of their favorite memories. With cloud backup and sharing options, preserving moments has never been easier or more secure.",
+    "size": 35,
+    "reviews": 270,
+    "ratingAvg": 4.5,
+    "downloads": 99,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 137 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3cinEIwajvdhB7inoos2TTkLI3gwc76xkA&s",
+    "title": "Task Organizer",
+    "companyName": "PlanIt",
+    "id": 19,
+    "description": "Task Organizer simplifies project management and personal task tracking. Users can set priorities, deadlines, and reminders, helping them achieve goals and stay productive in both work and personal life.",
+    "size": 24,
+    "reviews": 190,
+    "ratingAvg": 4.4,
+    "downloads": 66,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 90 }
+    ]
+  },
+  {
+    "image": "https://edcircuit.com/wp-content/uploads/2022/12/WGU-edCircuit-Virtual-Study-Hall-pic-scaled.jpg",
+    "title": "Virtual Study Room",
+    "companyName": "LearnTogether",
+    "id": 20,
+    "description": "Virtual Study Room provides a collaborative online environment for students to study together, share notes, and host discussion sessions. It enhances learning through community interaction and organized study tools.",
+    "size": 27,
+    "reviews": 210,
+    "ratingAvg": 4.7,
+    "downloads": 31,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 75 },
+      { "name": "5 star", "count": 90 }
+    ]
+  }
+]
