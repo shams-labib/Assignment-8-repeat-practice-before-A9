@@ -22,7 +22,7 @@ const useFetchData = () => {
         fetchData();
     },[])
 
-    return {data, loading, error}
+    return {data, loading, error, setLoading}
 };
 
 export default useFetchData;
