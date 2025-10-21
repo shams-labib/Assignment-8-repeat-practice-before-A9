@@ -4,6 +4,7 @@ import Root from "./Root";
 import Home from "../Pages/Home resoucers/Home";
 import Instalation from "../Pages/Instalation";
 import Apps from "../Pages/All Apps/Apps";
+import ViewDetails from "../Pages/ViewDetails";
 
 export const router = createBrowserRouter([
     {
@@ -23,6 +24,10 @@ export const router = createBrowserRouter([
             {
                 path:"/installation",
                 element:<Instalation></Instalation>
+            },
+            {
+                path: '/category/:id',
+                element:<ViewDetails></ViewDetails>
             }
         ]
     }
